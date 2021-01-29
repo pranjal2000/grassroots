@@ -1,0 +1,12 @@
+.ctc1{
+    background-image: url(http://themepush.com/demo/runcharity/assets/img/map.png);
+}
+.ctc2{
+    background-color: #1cbb9b;opacity:0.95;
+}
+.ctc3{
+    margin-top:15px;
+}
+#name, #email, #phone{
+    size: 30;
+}

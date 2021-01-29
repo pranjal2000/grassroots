@@ -1,0 +1,1305 @@
+{
+  "receipt": {
+    "offNextId": 1005,
+    "autoNextId": 1029,
+    "baseImage": { "url": "" },
+    "nextId": 95,
+    "fields": []
+  },
+  "oid": "-Kz3de8pjdN_iR5OxMS7",
+  "legal": { "panNo": "AABTL5143N", "regNo": "33/2017" },
+  "video": {
+    "caption": "Caption of Lit the Light video",
+    "url": "https://www.youtube.com/watch?v=wJYpxab8kKI"
+  },
+  "nextReceiptNumber": 31,
+  "razorpay": { "accountId": "acc_Etvcn8eRpVglH7" },
+  "reachOut": {
+    "youtube": "https://www.youtube.com/channel/UCWhYLLOSV4fIDB_71sIMYSw",
+    "twitter": "https://twitter.com/litthelight?lang=en",
+    "linkedin": "https://www.linkedin.com/company/lit-the-light-vision/",
+    "phone2": "8056207601",
+    "phone1": "9894949878",
+    "email": "admin@litthelight.org",
+    "facebook": "https://www.facebook.com/LitTheLight/",
+    "website": "http://litthelight.org/",
+    "instagram": "https://www.instagram.com/litthelight/"
+  },
+  "ops": {
+    "offlinePaymentRow": 698,
+    "settlementSheetId": "1h6d_X_lJSzadGN4nKMYWjoC3BEL52szlr8mGPUEVPpo",
+    "spreadSheetId": "1h6d_X_lJSzadGN4nKMYWjoC3BEL52szlr8mGPUEVPpo",
+    "settlementRow": 8,
+    "receiptVersion": 2
+  },
+  "address": "Plot No. 7A Rehoboth House,  Somasundura Moorthy Avenue,\nShakthi Nagar,\nPorur, Chennai, 600116.",
+  "bank": { "accountNo": "", "accountName": "", "ifscCode": "", "bankName": "" },
+  "activities": [
+    "Reading",
+    " Audio Recording",
+    " Scribe",
+    " Awareness campaigns",
+    " Financial support",
+    " Hidden talents"
+  ],
+  "description": "“Lit The Light” is a voluntary services group which supports Visually Impaired students by helping them in their academics, extracurricular activities, job placements and overall growth.\n\nIt was the vision of a single person, S.N. Barath, that sparked this endeavor. After attending reading sessions for a year, a visually impaired student of Government High School in Poonamalle scored 960 in his class 12 board examination. This was an eye-opener for Barath.He now realised that a little help could go a long way in helping such students. In 2012, along with a few of his colleagues Ram Kumar, Ravikant, Adhiyan and Sakthivel, he began this journey of Social Service. Lit the Light started functioning from 26th Jan 2012.\n\nWe are entirely a volunteer based service organization which is operating in India (Chennai, Coimbatore, Madurai, Vellore, Erode, Karur, Cuddalore and Salem), USA, UK, Bahrain & Gulf countries.",
+  "whyHelpMatters": [
+    { "text": "Your support is much appreciated", "icon": "checkmark-circle-outline" },
+    {
+      "text": "Your funds saves lives of under-privileged visually challenged",
+      "icon": "checkmark-circle-outline"
+    },
+    {
+      "text": "Awareness is the most important thing and you are being a part of more than just a revolution",
+      "icon": "checkmark-circle-outline"
+    }
+  ],
+  "id": "mIiaqDtkgZsgFp2xEgQT",
+  "media": [
+    {
+      "publicationLogo": "",
+      "description": "The Eenadu Telugu Magazine has published an article dated 02.08.2020 on the work done by our organization. It outlines our humble roots and steller ventures in a detailed article. Featured here is Lit the Light  founder Mr. Barath SN. ",
+      "name": "పాఠాలు చెబుతారు",
+      "slug": "పాఠాలు-చెబుతారు",
+      "video": { "url": "", "caption": "Video of పాఠాలు చెబుతారు media" },
+      "photo": {
+        "caption": "Photo of పాఠాలు చెబుతారు media",
+        "url": "https://firebasestorage.googleapis.com/v0/b/gr-live.appspot.com/o/grcare%2Fregional%2Fin%2F31%2F3100%2Fngo%2FmIiaqDtkgZsgFp2xEgQT%2Fmedia%2Foriginal_పాఠాలు-చెబుతారు.jpg?alt=media"
+      },
+      "isActive": true,
+      "date": { "_seconds": 1596346774, "_nanoseconds": 37000000 },
+      "updatedBy": "v2zWFLoqPngVeZjDgYL8qD2T0IA2",
+      "publicationName": "Eenadu",
+      "id": "TFvHQjA585ZrGIzjfoXb",
+      "createdBy": "v2zWFLoqPngVeZjDgYL8qD2T0IA2",
+      "link": "https://www.eenadu.net/sundaymagazine/article/320000675",
+      "reporterName": "",
+      "createdAt": { "_seconds": 1604468513, "_nanoseconds": 0 },
+      "updatedAt": { "_seconds": 1604468513, "_nanoseconds": 0 }
+    },
+    {
+      "publicationLogo": "",
+      "slug": "massive-reading-campaign-for-visually-challenged",
+      "id": "J02AoANmzbw0VAMDrtlw",
+      "link": "http://www.chennaisonline.com/reading-campaign-visually-challenged/",
+      "createdBy": "vC28AH3x3XMURhAi3DqDRIkBz092",
+      "publicationName": "Adambakkam times",
+      "createdAt": { "_seconds": 1589641337, "_nanoseconds": 0 },
+      "reporterName": "",
+      "name": "Massive reading campaign for visually challenged",
+      "description": "",
+      "video": { "caption": "Video of Massive reading campaign for visually challenged media", "url": "" },
+      "date": { "_seconds": 1541343560, "_nanoseconds": 988000000 },
+      "photo": {
+        "url": "https://firebasestorage.googleapis.com/v0/b/gr-live.appspot.com/o/grcare%2Fregional%2Fin%2F31%2F3100%2Fngo%2Flit-the-light%2Fmedia%2Foriginal_massive-reading-campaign-for-visually-challenged.jpg?alt=media",
+        "caption": "Photo of Massive reading campaign for visually challenged media"
+      },
+      "updatedBy": "v2zWFLoqPngVeZjDgYL8qD2T0IA2",
+      "updatedAt": { "_seconds": 1595069422, "_nanoseconds": 0 },
+      "isActive": true
+    },
+    {
+      "createdBy": "vC28AH3x3XMURhAi3DqDRIkBz092",
+      "date": { "_seconds": 1535212658, "_nanoseconds": 556000000 },
+      "reporterName": "",
+      "video": {
+        "caption": "Video of This Chennai group helps the visually impaired with anything from jobs to arranging scribes media",
+        "url": ""
+      },
+      "updatedAt": { "_seconds": 1595069502, "_nanoseconds": 0 },
+      "id": "fhTgLERWCBxlgQXMF7DM",
+      "publicationLogo": "",
+      "slug": "this-chennai-group-helps-the-visually-impaired-with-anything-from-jobs-to-arranging-scribes",
+      "isActive": true,
+      "description": "",
+      "updatedBy": "v2zWFLoqPngVeZjDgYL8qD2T0IA2",
+      "link": "https://www.edexlive.com/beinspired/2018/aug/25/from-job-assistance-to-arranging-scribes-this-chennai-organisation-is-helping-the-visually-impaired-3776.html#sent/_blank",
+      "createdAt": { "_seconds": 1589644759, "_nanoseconds": 0 },
+      "publicationName": "The new Indian express",
+      "name": "This Chennai group helps the visually impaired with anything from jobs to arranging scribes",
+      "photo": {
+        "caption": "Photo of This Chennai group helps the visually impaired with anything from jobs to arranging scribes media",
+        "url": "https://firebasestorage.googleapis.com/v0/b/gr-live.appspot.com/o/grcare%2Fregional%2Fin%2F31%2F3100%2Fngo%2Flit-the-light%2Fmedia%2Foriginal_this-chennai-group-helps-the-visually-impaired-with-anything-from-jobs-to-arranging-scribes.jpg?alt=media"
+      }
+    },
+    {
+      "reporterName": "Anjana Sekar",
+      "slug": "from-reading-sessions-to-providing-scribes,-this-tn-group-helps-the-visually-impaired",
+      "description": "",
+      "date": { "_seconds": 1532534367, "_nanoseconds": 319000000 },
+      "publicationLogo": "",
+      "createdBy": "vC28AH3x3XMURhAi3DqDRIkBz092",
+      "name": "From reading sessions to providing scribes, this TN group helps the visually impaired",
+      "publicationName": "The news minute",
+      "updatedBy": "v2zWFLoqPngVeZjDgYL8qD2T0IA2",
+      "createdAt": { "_seconds": 1589644850, "_nanoseconds": 0 },
+      "isActive": true,
+      "link": "https://www.thenewsminute.com/article/reading-sessions-providing-scribes-tn-group-helps-visually-impaired-85412",
+      "id": "f706PdpGdmZm9l9nHHYG",
+      "video": {
+        "caption": "Video of From reading sessions to providing scribes, this TN group helps the visually impaired media",
+        "url": ""
+      },
+      "updatedAt": { "_seconds": 1595069555, "_nanoseconds": 0 },
+      "photo": {
+        "caption": "Photo of From reading sessions to providing scribes, this TN group helps the visually impaired media",
+        "url": "https://firebasestorage.googleapis.com/v0/b/gr-live.appspot.com/o/grcare%2Fregional%2Fin%2F31%2F3100%2Fngo%2Flit-the-light%2Fmedia%2Foriginal_from-reading-sessions-to-providing-scribes,-this-tn-group-helps-the-visually-impaired.jpg?alt=media"
+      }
+    },
+    {
+      "slug": "இப்படிக்கு-இவர்கள்",
+      "publicationLogo": "",
+      "link": "",
+      "updatedBy": "v2zWFLoqPngVeZjDgYL8qD2T0IA2",
+      "publicationName": "News18 Tamil Nadu",
+      "id": "U7UYCorSld3mnO4o6Vbr",
+      "video": {
+        "caption": "Video of இப்படிக்கு இவர்கள் media",
+        "url": "https://youtu.be/wJYpxab8kKI#sent/_blank"
+      },
+      "createdBy": "vC28AH3x3XMURhAi3DqDRIkBz092",
+      "createdAt": { "_seconds": 1589644950, "_nanoseconds": 0 },
+      "updatedAt": { "_seconds": 1595069567, "_nanoseconds": 0 },
+      "name": "இப்படிக்கு இவர்கள்",
+      "isActive": true,
+      "reporterName": "",
+      "date": { "_seconds": 1524067257, "_nanoseconds": 587000000 },
+      "photo": {
+        "caption": "Photo of இப்படிக்கு இவர்கள் media",
+        "url": "https://firebasestorage.googleapis.com/v0/b/gr-live.appspot.com/o/grcare%2Fregional%2Fin%2F31%2F3100%2Fngo%2Flit-the-light%2Fmedia%2Foriginal_இப்படிக்கு-இவர்கள்.jpg?alt=media"
+      },
+      "description": ""
+    },
+    {
+      "publicationName": "Dinathanthi",
+      "date": { "_seconds": 1497106584, "_nanoseconds": 917000000 },
+      "isActive": true,
+      "updatedAt": { "_seconds": 1595069383, "_nanoseconds": 0 },
+      "slug": "விழி-இழந்தவர்களுக்கு-கல்வி-'ஒளி'",
+      "photo": {
+        "url": "https://firebasestorage.googleapis.com/v0/b/gr-live.appspot.com/o/grcare%2Fregional%2Fin%2F31%2F3100%2Fngo%2Flit-the-light%2Fmedia%2Foriginal_விழி-இழந்தவர்களுக்கு-கல்வி-'ஒளி'.jpg?alt=media",
+        "caption": "Photo of விழி இழந்தவர்களுக்கு கல்வி 'ஒளி' media"
+      },
+      "reporterName": "",
+      "link": "https://www.dailythanthi.com/Districts/Chennai/2017/06/10115817/Education-light-for-those-who-have-lost-the-gaze.vpf",
+      "video": { "url": "", "caption": "Video of விழி இழந்தவர்களுக்கு கல்வி 'ஒளி' media" },
+      "createdBy": "vC28AH3x3XMURhAi3DqDRIkBz092",
+      "id": "4Ny2YledgLiXElTBoLvi",
+      "createdAt": { "_seconds": 1589641056, "_nanoseconds": 0 },
+      "updatedBy": "v2zWFLoqPngVeZjDgYL8qD2T0IA2",
+      "publicationLogo": "",
+      "name": "விழி இழந்தவர்களுக்கு கல்வி 'ஒளி'",
+      "description": ""
+    },
+    {
+      "reporterName": "பேராச்சி கண்ணன்",
+      "updatedBy": "v2zWFLoqPngVeZjDgYL8qD2T0IA2",
+      "createdAt": { "_seconds": 1589644539, "_nanoseconds": 0 },
+      "updatedAt": { "_seconds": 1595069469, "_nanoseconds": 0 },
+      "publicationName": "Kungumam",
+      "isActive": true,
+      "video": { "url": "", "caption": "Video of முடியும்னு நினைச்சா முடியும்ணே! media" },
+      "name": "முடியும்னு நினைச்சா முடியும்ணே!",
+      "publicationLogo": "",
+      "slug": "முடியும்னு-நினைச்சா-முடியும்ணே!",
+      "description": "",
+      "date": { "_seconds": 1462806284, "_nanoseconds": 364000000 },
+      "createdBy": "vC28AH3x3XMURhAi3DqDRIkBz092",
+      "photo": {
+        "url": "https://firebasestorage.googleapis.com/v0/b/gr-live.appspot.com/o/grcare%2Fregional%2Fin%2F31%2F3100%2Fngo%2Flit-the-light%2Fmedia%2Foriginal_முடியும்னு-நினைச்சா-முடியும்ணே!.jpg?alt=media",
+        "caption": "Photo of முடியும்னு நினைச்சா முடியும்ணே! media"
+      },
+      "link": "http://www.kungumam.co.in/Articalinnerdetail.aspx?id=10448&id1=9&issue=20160509",
+      "id": "4y20k4SpAnUrr7KXGCzs"
+    },
+    {
+      "name": "judo champions with disability eye Olympics",
+      "slug": "judo-champions-with-disability-eye-olympics",
+      "createdBy": "vC28AH3x3XMURhAi3DqDRIkBz092",
+      "description": "",
+      "updatedBy": "v2zWFLoqPngVeZjDgYL8qD2T0IA2",
+      "date": { "_seconds": 1462201084, "_nanoseconds": 778000000 },
+      "publicationName": "The new Indian express",
+      "id": "PGq7xe5MjnW50imzWG09",
+      "link": "https://www.newindianexpress.com/cities/chennai/2016/may/02/Judo-Champions-With-Disability-Eye-Olympics-931654.html",
+      "publicationLogo": "",
+      "video": { "caption": "Video of judo champions with disability eye Olympics media", "url": "" },
+      "createdAt": { "_seconds": 1589641152, "_nanoseconds": 0 },
+      "photo": {
+        "caption": "Photo of judo champions with disability eye Olympics media",
+        "url": "https://firebasestorage.googleapis.com/v0/b/gr-live.appspot.com/o/grcare%2Fregional%2Fin%2F31%2F3100%2Fngo%2Flit-the-light%2Fmedia%2Foriginal_judo-champions-with-disability-eye-olympics.jpg?alt=media"
+      },
+      "reporterName": "",
+      "updatedAt": { "_seconds": 1595069397, "_nanoseconds": 0 },
+      "isActive": true
+    },
+    {
+      "reporterName": "",
+      "name": "Judo Champions honored",
+      "video": { "url": "", "caption": "Video of Judo Champions honored media" },
+      "publicationLogo": "",
+      "updatedAt": { "_seconds": 1595069369, "_nanoseconds": 0 },
+      "description": "",
+      "photo": {
+        "url": "https://firebasestorage.googleapis.com/v0/b/gr-live.appspot.com/o/grcare%2Fregional%2Fin%2F31%2F3100%2Fngo%2Flit-the-light%2Fmedia%2Foriginal_judo-champions-honored.jpg?alt=media",
+        "caption": "Photo of Judo Champions honored media"
+      },
+      "createdBy": "vC28AH3x3XMURhAi3DqDRIkBz092",
+      "publicationName": "The Hindu",
+      "slug": "judo-champions-honored",
+      "link": "",
+      "createdAt": { "_seconds": 1589640957, "_nanoseconds": 0 },
+      "id": "JIzKQgvdNknD4lfaMHB8",
+      "date": { "_seconds": 1461509685, "_nanoseconds": 538000000 },
+      "isActive": true,
+      "updatedBy": "v2zWFLoqPngVeZjDgYL8qD2T0IA2"
+    },
+    {
+      "link": "https://www.newindianexpress.com/cities/chennai/2016/apr/19/Disability-No-Hurdle-for-Judo-Champions-926055.html",
+      "photo": {
+        "url": "https://firebasestorage.googleapis.com/v0/b/gr-live.appspot.com/o/grcare%2Fregional%2Fin%2F31%2F3100%2Fngo%2Flit-the-light%2Fmedia%2Foriginal_disability-no-hurdle-for-judo-champions.jpg?alt=media",
+        "caption": "Photo of Disability no hurdle for judo champions media"
+      },
+      "updatedAt": { "_seconds": 1595069439, "_nanoseconds": 0 },
+      "publicationLogo": "",
+      "isActive": true,
+      "createdAt": { "_seconds": 1589641477, "_nanoseconds": 0 },
+      "description": "",
+      "date": { "_seconds": 1461078143, "_nanoseconds": 431000000 },
+      "reporterName": "",
+      "createdBy": "vC28AH3x3XMURhAi3DqDRIkBz092",
+      "updatedBy": "v2zWFLoqPngVeZjDgYL8qD2T0IA2",
+      "id": "dbCB3w36NDCOvgWZ2WMr",
+      "slug": "disability-no-hurdle-for-judo-champions",
+      "name": "Disability no hurdle for judo champions",
+      "publicationName": "The new Indian express",
+      "video": { "caption": "Video of Disability no hurdle for judo champions media", "url": "" }
+    }
+  ],
+  "logo": {
+    "url": "https://firebasestorage.googleapis.com/v0/b/gr-live.appspot.com/o/grcare%2Fregional%2Fin%2F31%2F3100%2Fngo%2FmIiaqDtkgZsgFp2xEgQT%2Foriginal_logo.jpg?alt=media",
+    "caption": "Caption of Lit the Light photo"
+  },
+  "state": { "name": "Tamil Nadu", "id": 31 },
+  "name": "Lit the Light",
+  "access": { "fundraiser": true, "receipt": true, "profile": true, "event": true },
+  "shortUrl": "",
+  "team": [
+    {
+      "hobbies": "",
+      "photo": {
+        "caption": "Photo of Bharath SN team",
+        "url": "https://firebasestorage.googleapis.com/v0/b/gr-live.appspot.com/o/grcare%2Fregional%2Fin%2F31%2F3100%2Fngo%2Flit-the-light%2Fteam%2Foriginal_bharath-sn.jpg?alt=media"
+      },
+      "role": "Founder",
+      "reachOut": {
+        "phone2": "",
+        "instagram": "",
+        "website": "",
+        "facebook": "https://www.facebook.com/Barath.SN",
+        "phone1": "9894949878",
+        "twitter": "",
+        "linkedin": "",
+        "youtube": "",
+        "email": ""
+      },
+      "to": { "_seconds": 0, "_nanoseconds": 0 },
+      "since": { "_seconds": 0, "_nanoseconds": 0 },
+      "slug": "bharath-sn",
+      "id": "3Os0bFXjS5njVcimhx3v",
+      "name": "Bharath SN"
+    },
+    {
+      "since": { "_seconds": 0, "_nanoseconds": 0 },
+      "id": "n0Qv6F3k3XFzKQ05JKAR",
+      "slug": "ramkumar",
+      "photo": {
+        "url": "https://firebasestorage.googleapis.com/v0/b/gr-live.appspot.com/o/grcare%2Fregional%2Fin%2F31%2F3100%2Fngo%2Flit-the-light%2Fteam%2Foriginal_ramkumar.jpg?alt=media",
+        "caption": "Photo of Ramkumar team"
+      },
+      "hobbies": "",
+      "name": "Ramkumar",
+      "role": "Co-Founder",
+      "to": { "_seconds": 0, "_nanoseconds": 0 },
+      "reachOut": {
+        "twitter": "",
+        "website": "",
+        "youtube": "",
+        "phone1": "8056207601",
+        "linkedin": "",
+        "instagram": "",
+        "phone2": "",
+        "email": "",
+        "facebook": "facebook.com/RamkumarVNR"
+      }
+    },
+    {
+      "photo": {
+        "caption": "Photo of Ravi team",
+        "url": "https://firebasestorage.googleapis.com/v0/b/gr-live.appspot.com/o/grcare%2Fregional%2Fin%2F31%2F3100%2Fngo%2Flit-the-light%2Fteam%2Foriginal_ravi.jpg?alt=media"
+      },
+      "name": "Ravi",
+      "reachOut": {
+        "website": "",
+        "instagram": "",
+        "twitter": "",
+        "email": "",
+        "youtube": "",
+        "phone2": "",
+        "phone1": "7709716601",
+        "linkedin": "",
+        "facebook": "https://www.facebook.com/rvi.bellad"
+      },
+      "id": "SQbU3rmYVeU1FEdn7Aoz",
+      "slug": "ravi",
+      "to": { "_seconds": 0, "_nanoseconds": 0 },
+      "since": { "_seconds": 0, "_nanoseconds": 0 },
+      "hobbies": "",
+      "role": "Co-Founder"
+    }
+  ],
+  "vision": "Services for Visually challenged",
+  "sdg": [
+    {
+      "link": "https://www.undp.org/content/undp/en/home/sustainable-development-goals/goal-10-reduced-inequalities.html",
+      "name": "Reduced Inequalities",
+      "slug": "",
+      "id": 10,
+      "description": "Reduce Inequality within and among countries",
+      "photo": {
+        "url": "https://firebasestorage.googleapis.com/v0/b/gr-live.appspot.com/o/grcare%2Fmaster%2Fsdg-filled%2F512x512-10.png?alt=media&token=1ce172e2-6fd3-48dc-be57-7de0fc791714",
+        "caption": ""
+      }
+    },
+    {
+      "name": "Decent work and Economic Growth",
+      "slug": "",
+      "description": "Promote sustained, incluside and sustainable economic growth, full and productive employment and decent work for all",
+      "id": 8,
+      "photo": {
+        "url": "https://firebasestorage.googleapis.com/v0/b/gr-live.appspot.com/o/grcare%2Fmaster%2Fsdg-filled%2F512x512-8.png?alt=media&token=e90f68cf-a1f0-42f5-b468-a15394441403",
+        "caption": ""
+      },
+      "link": "https://www.undp.org/content/undp/en/home/sustainable-development-goals/goal-8-decent-work-and-economic-growth.html"
+    },
+    {
+      "name": "Quality Education",
+      "description": "Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all",
+      "id": 4,
+      "slug": "",
+      "photo": {
+        "url": "https://firebasestorage.googleapis.com/v0/b/gr-live.appspot.com/o/grcare%2Fmaster%2Fsdg-filled%2F512x512-4.png?alt=media&token=47d37538-1ae3-4f33-a174-4b38a8e0e033",
+        "caption": ""
+      },
+      "link": "https://www.undp.org/content/undp/en/home/sustainable-development-goals/goal-4-quality-education.html"
+    }
+  ],
+  "mission": [
+    "Conducting reading sessions.",
+    "Recording study materials.",
+    "Arranging scribes.",
+    "Discovering hidden talents.",
+    "Job assistance."
+  ],
+  "causes": [ "People with Disabilities" ],
+  "photos": [
+    "https://firebasestorage.googleapis.com/v0/b/gr-live.appspot.com/o/grcare%2Fregional%2Fin%2F31%2F3100%2Fngo%2FmIiaqDtkgZsgFp2xEgQT%2Foriginal_cover1.jpg?alt=media&token=83825e78-9893-4d68-8d64-c73cc31827b6",
+    "https://firebasestorage.googleapis.com/v0/b/gr-live.appspot.com/o/grcare%2Fregional%2Fin%2F31%2F3100%2Fngo%2FmIiaqDtkgZsgFp2xEgQT%2Foriginal_cover2.jpg?alt=media&token=ab7f2006-6cc7-4495-8842-b07bd61b0768",
+    "https://firebasestorage.googleapis.com/v0/b/gr-live.appspot.com/o/grcare%2Fregional%2Fin%2F31%2F3100%2Fngo%2FmIiaqDtkgZsgFp2xEgQT%2Foriginal_cover3.jpg?alt=media&token=b7cf0066-545b-4b06-bd7d-0c95a73b0c52",
+    "https://firebasestorage.googleapis.com/v0/b/gr-live.appspot.com/o/grcare%2Fregional%2Fin%2F31%2F3100%2Fngo%2FmIiaqDtkgZsgFp2xEgQT%2Foriginal_cover4.jpg?alt=media&token=efb5d098-4e77-4136-9b25-5d090e008369",
+    "https://firebasestorage.googleapis.com/v0/b/gr-live.appspot.com/o/grcare%2Fregional%2Fin%2F31%2F3100%2Fngo%2FmIiaqDtkgZsgFp2xEgQT%2Foriginal_cover5.jpg?alt=media&token=e68d2eea-1b75-4c63-8c61-630c1efbf92e",
+    "https://firebasestorage.googleapis.com/v0/b/gr-live.appspot.com/o/grcare%2Fregional%2Fin%2F31%2F3100%2Fngo%2FmIiaqDtkgZsgFp2xEgQT%2Foriginal_cover6.jpg?alt=media&token=16b9dd14-fdba-40b9-b379-59666ceaabb0",
+    "https://firebasestorage.googleapis.com/v0/b/gr-live.appspot.com/o/grcare%2Fregional%2Fin%2F31%2F3100%2Fngo%2FmIiaqDtkgZsgFp2xEgQT%2Foriginal_cover7.jpg?alt=media&token=e64cb159-8009-4845-b6bc-f424910f099d",
+    "https://firebasestorage.googleapis.com/v0/b/gr-live.appspot.com/o/grcare%2Fregional%2Fin%2F31%2F3100%2Fngo%2FmIiaqDtkgZsgFp2xEgQT%2Foriginal_cover8.jpg?alt=media&token=f21032a3-1c3b-4a94-8000-273028d04cef"
+  ],
+  "fullUrl": "https://thegrassroots.app/chennai/ngo/lit-the-light",
+  "projects": [
+    {
+      "name": "Job Assistance",
+      "isActive": true,
+      "id": "5ws2B1EK8cWt8zFVN3PG",
+      "updatedAt": { "_seconds": 1590691997, "_nanoseconds": 0 },
+      "createdBy": "v2zWFLoqPngVeZjDgYL8qD2T0IA2",
+      "photo": {
+        "url": "https://firebasestorage.googleapis.com/v0/b/gr-devlocal.appspot.com/o/grcare%2Fregional%2Fin%2F31%2F3100%2Fngo%2Flit-the-light%2Fproject%2Foriginal_job-assistance.jpg?alt=media",
+        "caption": "Photo of Job Assistance project"
+      },
+      "link": "http://litthelight.org/featured/job-assistance/",
+      "description": "\"Getting employment is a primary issue for the Visually challenged . We have successfully placed 25 visually impaired candidates in different organisations. This year we will be making a batch of 1520 final year students and provide them Communication and Soft skills training which is a must for every student in today’s world to get hired.\n\n Currently we have started this in Chennai only.\nProfessional trainers voluntarily spare their time for this and train the students.\nWe also have a team that connects with the HRs of different companies to get Job Opportunities for Students.\nGoal: To establish Training centres, train students with the skills to make them employable and provide job opportunities.\"",
+      "createdAt": { "_seconds": 1589097594, "_nanoseconds": 0 },
+      "updatedBy": "v2zWFLoqPngVeZjDgYL8qD2T0IA2",
+      "parent": null,
+      "date": { "_seconds": 1589097579, "_nanoseconds": 687000000 }
+    },
+    {
+      "updatedAt": { "_seconds": 1589097574, "_nanoseconds": 0 },
+      "parent": null,
+      "photo": {
+        "url": "https://firebasestorage.googleapis.com/v0/b/gr-devlocal.appspot.com/o/grcare%2Fregional%2F31%2F3100%2Fngo%2Flit-the-light%2Fprojects%2FotfcbFNxDrFz6SD9Zgmf%2Fproject_original.jpg?alt=media",
+        "caption": "Photo of Awareness Campaign project"
+      },
+      "createdAt": { "_seconds": 1589097574, "_nanoseconds": 0 },
+      "updatedBy": "v2zWFLoqPngVeZjDgYL8qD2T0IA2",
+      "name": "Awareness Campaign",
+      "isActive": true,
+      "id": "otfcbFNxDrFz6SD9Zgmf",
+      "description": "\"On regular basis Lit the Light participates in different Awareness Campaign all over Chennai and volunteers for different event organised by other NGO’s.\n\nThe different Campaign Lit the Light participated are:\n\nTraffic Awareness Very month last Sunday.\nBeach Cleanup Activity.\nVolunteering for District Level Volleyball Competition.\nGoal: Work with all the NGO’s hand in hand and contribute in Making a better society to Live In.\"",
+      "date": { "_seconds": 1589097561, "_nanoseconds": 187000000 },
+      "link": "http://litthelight.org/featured/awareness-campaign/",
+      "createdBy": "v2zWFLoqPngVeZjDgYL8qD2T0IA2"
+    },
+    {
+      "isActive": true,
+      "id": "Hh60nmI0NoH9lPTRADXd",
+      "parent": null,
+      "photo": {
+        "url": "https://firebasestorage.googleapis.com/v0/b/gr-devlocal.appspot.com/o/grcare%2Fregional%2F31%2F3100%2Fngo%2Flit-the-light%2Fprojects%2FHh60nmI0NoH9lPTRADXd%2Fproject_original.jpg?alt=media",
+        "caption": "Photo of Talent Search project"
+      },
+      "updatedAt": { "_seconds": 1589097554, "_nanoseconds": 0 },
+      "description": "\"Visually Impaired students have different talents like singing, playing musical instruments, dancing etc. and some partial sighted students are good at sketching and drawing as well.\n\nWe have a dedicated team which takes care of unearthing these talents in them.\nWe make a video of those students and share it on social media and try to get recognition for their talents.\nWe had conducted a Chennai district level cricket tournament (Blindfold Cricket Tournament2014) for visually impaired. We have also organized many other sporting events for them like Volleyball, Athletics etc.\nGoal: To find the Hidden Talents in students and provide them a platform to showcase their talents to the world thereby opening doors of opportunity for them.\"",
+      "date": { "_seconds": 1589097538, "_nanoseconds": 318000000 },
+      "link": "http://litthelight.org/featured/talent-search/",
+      "name": "Talent Search",
+      "createdAt": { "_seconds": 1589097554, "_nanoseconds": 0 },
+      "createdBy": "v2zWFLoqPngVeZjDgYL8qD2T0IA2",
+      "updatedBy": "v2zWFLoqPngVeZjDgYL8qD2T0IA2"
+    },
+    {
+      "createdBy": "v2zWFLoqPngVeZjDgYL8qD2T0IA2",
+      "photo": {
+        "url": "https://firebasestorage.googleapis.com/v0/b/gr-devlocal.appspot.com/o/grcare%2Fregional%2F31%2F3100%2Fngo%2Flit-the-light%2Fprojects%2FqCqSgTr7ovCQM7q91EHs%2Fproject_original.jpg?alt=media",
+        "caption": "Photo of Recording project"
+      },
+      "link": "http://litthelight.org/featured/recording/",
+      "createdAt": { "_seconds": 1589097531, "_nanoseconds": 0 },
+      "updatedAt": { "_seconds": 1589097531, "_nanoseconds": 0 },
+      "date": { "_seconds": 1589097515, "_nanoseconds": 843000000 },
+      "name": "Recording",
+      "description": "\"We are currently working on the project of creating a Digital Audio Library for VC students.\nBooks will be recorded in 3 categories i.e. Academic Books, General Books (Motivational, General Knowledge, etc.) and Competitive Exam Books.\nThese audio books will be made available online so that any student can download it at any time and use it. Currently we have about 200 volunteers, just for Recording Books.\nCurrently we have about 200 volunteers, just for Recording Books.\nGoal: To Create a Digital Audio Library, State wise and make it available for students everywhere.\"",
+      "id": "qCqSgTr7ovCQM7q91EHs",
+      "parent": null,
+      "updatedBy": "v2zWFLoqPngVeZjDgYL8qD2T0IA2",
+      "isActive": true
+    },
+    {
+      "date": { "_seconds": 1589097491, "_nanoseconds": 900000000 },
+      "id": "JjCw5NrOZT1mps6zIRrr",
+      "isActive": true,
+      "updatedAt": { "_seconds": 1589097511, "_nanoseconds": 0 },
+      "createdBy": "v2zWFLoqPngVeZjDgYL8qD2T0IA2",
+      "description": "\"Currently reading sessions are conducted by Lit the Light at 3 places in Chennai Poonamallee Government Blind School, ICAT Design Centre-Mylapore and NIVH- Poonamallee.\nWe have a dedicated group of volunteers exclusively for weekend Reading Sessions.\nIn the next academic year 2016-17, we commence the Reading sessions at Poonamallee Gov. Blind School, Chennai from 5th to 12th STD.\nGoal: To have Reading centres for Visually challenged (VC) students in every state and city of India. Every city should have a dedicated group of volunteers taking care of Reading Sessions in their city.\"",
+      "photo": {
+        "url": "https://firebasestorage.googleapis.com/v0/b/gr-devlocal.appspot.com/o/grcare%2Fregional%2F31%2F3100%2Fngo%2Flit-the-light%2Fprojects%2FJjCw5NrOZT1mps6zIRrr%2Fproject_original.jpg?alt=media",
+        "caption": "Photo of Reading project"
+      },
+      "updatedBy": "v2zWFLoqPngVeZjDgYL8qD2T0IA2",
+      "name": "Reading",
+      "parent": null,
+      "createdAt": { "_seconds": 1589097511, "_nanoseconds": 0 },
+      "link": "http://litthelight.org/featured/reading/"
+    },
+    {
+      "date": { "_seconds": 1589097184, "_nanoseconds": 719000000 },
+      "updatedAt": { "_seconds": 1589097400, "_nanoseconds": 0 },
+      "name": "Scribes",
+      "isActive": true,
+      "photo": {
+        "caption": "Photo of Scribes project",
+        "url": "https://firebasestorage.googleapis.com/v0/b/gr-devlocal.appspot.com/o/grcare%2Fregional%2F31%2F3100%2Fngo%2Flit-the-light%2Fprojects%2FpjqZeIeaG5EluQd95mTD%2Fproject_original.jpg?alt=media"
+      },
+      "id": "pjqZeIeaG5EluQd95mTD",
+      "description": "\"Every Visually Challenged(VC) student needs a scribe to write an exam for him/her. There are a lot of requests that come to us on a daily basis for scribe requirements.\n\nWe have volunteers that arrange for scribes by posting the requirements on social media like WhatsApp and Facebook.\nWe arrange scribes in the locations, Chennai, Coimbatore, Madurai and Erode.\nIn Chennai we are arranging for scribes in nearly 30 Colleges.\nIn the past 2 years we have arranged for more than 2000 Scribes for different exams.\nWe have a dedicated team that arranges for scribes in each city.\nGoal: To form a strong network of scribes all over India, so that we will be able to fulfill the scribe requirement for any student, from any place.\"",
+      "createdAt": { "_seconds": 1589097400, "_nanoseconds": 0 },
+      "createdBy": "v2zWFLoqPngVeZjDgYL8qD2T0IA2",
+      "parent": null,
+      "link": "http://litthelight.org/featured/scribes/",
+      "updatedBy": "v2zWFLoqPngVeZjDgYL8qD2T0IA2"
+    }
+  ],
+  "review": [
+    {
+      "ngo": {
+        "slug": "lit-the-light",
+        "id": "mIiaqDtkgZsgFp2xEgQT",
+        "name": "Lit the Light",
+        "logo": {
+          "url": "https://firebasestorage.googleapis.com/v0/b/gr-prod.appspot.com/o/gr%2FregionalData%2Fin%2F31%2F3100%2Fngo%2Flit-the-light-logo.jpg?alt=media&token=0ad215d9-40bf-4461-808a-37cf91a87aef",
+          "caption": ""
+        }
+      },
+      "volunteer": {
+        "photo": {
+          "caption": "",
+          "url": "https://lh5.googleusercontent.com/-4w3AcUIgfhk/AAAAAAAAAAI/AAAAAAAAB_s/VwC-cPdoKtQ/photo.jpg"
+        },
+        "id": "CXb6U6xEDnYhXoEIxeBH5XS55qW2",
+        "name": "KRISH MR"
+      },
+      "name": "KRISH MR",
+      "attended": true,
+      "updatedAt": { "_seconds": 1588856484, "_nanoseconds": 242000000 },
+      "feedback": "Fine",
+      "isActive": true,
+      "createdAt": { "_seconds": 1518602400, "_nanoseconds": 0 },
+      "createdBy": "CXb6U6xEDnYhXoEIxeBH5XS55qW2",
+      "updatedBy": "CXb6U6xEDnYhXoEIxeBH5XS55qW2",
+      "event": {
+        "name": "Scribe Requirement",
+        "id": "-L57k270ZpEnEXJSBboZ",
+        "photo": {
+          "url": "2018-02-13-10:00-Scribe-Requirement--L57jmzsT7WAKnkvTc0d.jpg?alt=media",
+          "caption": ""
+        }
+      },
+      "id": "-L57k270ZpEnEXJSBboZ-CXb6U6xEDnYhXoEIxeBH5XS55qW2",
+      "rating": "4"
+    },
+    {
+      "updatedAt": { "_seconds": 1588856487, "_nanoseconds": 611000000 },
+      "isActive": true,
+      "name": "Sajith Madhav",
+      "ngo": {
+        "slug": "lit-the-light",
+        "logo": {
+          "url": "https://firebasestorage.googleapis.com/v0/b/gr-prod.appspot.com/o/gr%2FregionalData%2Fin%2F31%2F3100%2Fngo%2Flit-the-light-logo.jpg?alt=media&token=0ad215d9-40bf-4461-808a-37cf91a87aef",
+          "caption": ""
+        },
+        "id": "mIiaqDtkgZsgFp2xEgQT",
+        "name": "Lit the Light"
+      },
+      "id": "-L5ijPVnNFlsLxwezWHM-gJWM5iipeAT4x9UIZRuvgcBFxVa2",
+      "rating": "3",
+      "feedback": "No contact detail provided. When  reached venue there was no requirement for a scribe.. finally did reading for 3 students..  please update the activity with contact person details..",
+      "createdBy": "gJWM5iipeAT4x9UIZRuvgcBFxVa2",
+      "createdAt": { "_seconds": 1519380000, "_nanoseconds": 0 },
+      "event": {
+        "id": "-L5ijPVnNFlsLxwezWHM",
+        "name": "Assignment writing Requirement",
+        "photo": {
+          "url": "2018-02-13-10:00-Scribe-Requirement--L57jmzsT7WAKnkvTc0d.jpg?alt=media",
+          "caption": ""
+        }
+      },
+      "updatedBy": "gJWM5iipeAT4x9UIZRuvgcBFxVa2",
+      "volunteer": {
+        "name": "Sajith Madhav",
+        "id": "gJWM5iipeAT4x9UIZRuvgcBFxVa2",
+        "photo": {
+          "url": "https://lh3.googleusercontent.com/-bgxQW019WTg/AAAAAAAAAAI/AAAAAAAAATs/jDtEI4WUtAw/photo.jpg",
+          "caption": ""
+        }
+      },
+      "attended": true
+    },
+    {
+      "attended": true,
+      "feedback": "It was really good experience ",
+      "name": "Hari Krishnan",
+      "ngo": {
+        "id": "mIiaqDtkgZsgFp2xEgQT",
+        "logo": {
+          "caption": "",
+          "url": "https://firebasestorage.googleapis.com/v0/b/gr-prod.appspot.com/o/gr%2FregionalData%2Fin%2F31%2F3100%2Fngo%2Flit-the-light-logo.jpg?alt=media&token=0ad215d9-40bf-4461-808a-37cf91a87aef"
+        },
+        "name": "Lit the Light",
+        "slug": "lit-the-light"
+      },
+      "isActive": true,
+      "updatedAt": { "_seconds": 1588856500, "_nanoseconds": 906000000 },
+      "volunteer": {
+        "id": "wEuVXA2TvlYSpvfdaBQDijfMs042",
+        "name": "Hari Krishnan",
+        "photo": {
+          "url": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg",
+          "caption": ""
+        }
+      },
+      "createdBy": "wEuVXA2TvlYSpvfdaBQDijfMs042",
+      "event": {
+        "id": "-L7bxsb4Tc_Efq-NbMkC",
+        "photo": {
+          "url": "2018-02-27-10:00-Readers-Requirements--L6HCfOWKiNcnWRPvVq0.jpg?alt=media",
+          "caption": ""
+        },
+        "name": "Scribe Requirements"
+      },
+      "rating": "4",
+      "createdAt": { "_seconds": 1521215579, "_nanoseconds": 484000000 },
+      "id": "-L7bxsb4Tc_Efq-NbMkC-wEuVXA2TvlYSpvfdaBQDijfMs042",
+      "updatedBy": "wEuVXA2TvlYSpvfdaBQDijfMs042"
+    },
+    {
+      "feedback": "This was my 1st experienced being a scribe and I wana continue this.",
+      "updatedBy": "i2abUhrEOEbx3ICP2YFhxsZPhEb2",
+      "volunteer": {
+        "id": "i2abUhrEOEbx3ICP2YFhxsZPhEb2",
+        "photo": {
+          "url": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg",
+          "caption": ""
+        },
+        "name": "Swaathy Sampathkumar"
+      },
+      "id": "-L7bxsb4Tc_Efq-NbMkC-i2abUhrEOEbx3ICP2YFhxsZPhEb2",
+      "name": "Swaathy Sampathkumar",
+      "createdAt": { "_seconds": 1521396401, "_nanoseconds": 447000000 },
+      "ngo": {
+        "logo": {
+          "caption": "",
+          "url": "https://firebasestorage.googleapis.com/v0/b/gr-prod.appspot.com/o/gr%2FregionalData%2Fin%2F31%2F3100%2Fngo%2Flit-the-light-logo.jpg?alt=media&token=0ad215d9-40bf-4461-808a-37cf91a87aef"
+        },
+        "slug": "lit-the-light",
+        "id": "mIiaqDtkgZsgFp2xEgQT",
+        "name": "Lit the Light"
+      },
+      "createdBy": "i2abUhrEOEbx3ICP2YFhxsZPhEb2",
+      "event": {
+        "photo": {
+          "caption": "",
+          "url": "2018-02-27-10:00-Readers-Requirements--L6HCfOWKiNcnWRPvVq0.jpg?alt=media"
+        },
+        "name": "Scribe Requirements",
+        "id": "-L7bxsb4Tc_Efq-NbMkC"
+      },
+      "updatedAt": { "_seconds": 1588856499, "_nanoseconds": 663000000 },
+      "rating": "5",
+      "isActive": true,
+      "attended": true
+    },
+    {
+      "isActive": true,
+      "ngo": {
+        "name": "Lit the Light",
+        "id": "mIiaqDtkgZsgFp2xEgQT",
+        "logo": {
+          "caption": "",
+          "url": "https://firebasestorage.googleapis.com/v0/b/gr-prod.appspot.com/o/gr%2FregionalData%2Fin%2F31%2F3100%2Fngo%2Flit-the-light-logo.jpg?alt=media&token=0ad215d9-40bf-4461-808a-37cf91a87aef"
+        },
+        "slug": "lit-the-light"
+      },
+      "name": "smitha maxima",
+      "volunteer": {
+        "photo": {
+          "url": "https://lh6.googleusercontent.com/-tFtU62ESaPk/AAAAAAAAAAI/AAAAAAAAAAs/UsVQHC1-WYU/photo.jpg",
+          "caption": ""
+        },
+        "name": "smitha maxima",
+        "id": "A3XQAdHPuhc7RhDTefjwq1cvaUj2"
+      },
+      "attended": true,
+      "event": {
+        "photo": {
+          "url": "2018-02-27-10:00-Readers-Requirements--L6HCfOWKiNcnWRPvVq0.jpg?alt=media",
+          "caption": ""
+        },
+        "id": "-L74G3sQ2NJiYKxp--_R",
+        "name": "Scribe Requirements"
+      },
+      "rating": "5",
+      "updatedAt": { "_seconds": 1588856493, "_nanoseconds": 205000000 },
+      "id": "-L74G3sQ2NJiYKxp--_R-A3XQAdHPuhc7RhDTefjwq1cvaUj2",
+      "createdAt": { "_seconds": 1521808940, "_nanoseconds": 812000000 },
+      "feedback": "Am so happy that i attended the event \nAnd am so satisfied",
+      "createdBy": "A3XQAdHPuhc7RhDTefjwq1cvaUj2",
+      "updatedBy": "A3XQAdHPuhc7RhDTefjwq1cvaUj2"
+    },
+    {
+      "id": "-L7bzCDWquHmYbpczC3M-A3XQAdHPuhc7RhDTefjwq1cvaUj2",
+      "createdBy": "A3XQAdHPuhc7RhDTefjwq1cvaUj2",
+      "feedback": "Good",
+      "rating": "5",
+      "ngo": {
+        "slug": "lit-the-light",
+        "name": "Lit the Light",
+        "id": "mIiaqDtkgZsgFp2xEgQT",
+        "logo": {
+          "caption": "",
+          "url": "https://firebasestorage.googleapis.com/v0/b/gr-prod.appspot.com/o/gr%2FregionalData%2Fin%2F31%2F3100%2Fngo%2Flit-the-light-logo.jpg?alt=media&token=0ad215d9-40bf-4461-808a-37cf91a87aef"
+        }
+      },
+      "createdAt": { "_seconds": 1521809221, "_nanoseconds": 139000000 },
+      "updatedBy": "A3XQAdHPuhc7RhDTefjwq1cvaUj2",
+      "event": {
+        "name": "Scribe Requirements",
+        "id": "-L7bzCDWquHmYbpczC3M",
+        "photo": {
+          "caption": "",
+          "url": "2018-02-27-10:00-Readers-Requirements--L6HCfOWKiNcnWRPvVq0.jpg?alt=media"
+        }
+      },
+      "updatedAt": { "_seconds": 1588856504, "_nanoseconds": 81000000 },
+      "name": "smitha maxima",
+      "isActive": true,
+      "attended": true,
+      "volunteer": {
+        "name": "smitha maxima",
+        "photo": {
+          "url": "https://lh6.googleusercontent.com/-tFtU62ESaPk/AAAAAAAAAAI/AAAAAAAAAAs/UsVQHC1-WYU/photo.jpg",
+          "caption": ""
+        },
+        "id": "A3XQAdHPuhc7RhDTefjwq1cvaUj2"
+      }
+    },
+    {
+      "feedback": "Please make prior arrangements ",
+      "rating": "4",
+      "isActive": true,
+      "attended": true,
+      "createdAt": { "_seconds": 1521997691, "_nanoseconds": 188000000 },
+      "name": "STA LovER of nATurE",
+      "event": {
+        "id": "-L7bxsb4Tc_Efq-NbMkC",
+        "photo": {
+          "url": "2018-02-27-10:00-Readers-Requirements--L6HCfOWKiNcnWRPvVq0.jpg?alt=media",
+          "caption": ""
+        },
+        "name": "Scribe Requirements"
+      },
+      "createdBy": "ATCZm1A1L3ReHJu6PvuMKKpJMJX2",
+      "updatedAt": { "_seconds": 1588856499, "_nanoseconds": 6000000 },
+      "updatedBy": "ATCZm1A1L3ReHJu6PvuMKKpJMJX2",
+      "id": "-L7bxsb4Tc_Efq-NbMkC-ATCZm1A1L3ReHJu6PvuMKKpJMJX2",
+      "volunteer": {
+        "photo": {
+          "caption": "",
+          "url": "https://lh3.googleusercontent.com/-NSG5DGEFh1w/AAAAAAAAAAI/AAAAAAAAHVk/0sAxTyZRTWM/photo.jpg"
+        },
+        "id": "ATCZm1A1L3ReHJu6PvuMKKpJMJX2",
+        "name": "STA LovER of nATurE"
+      },
+      "ngo": {
+        "logo": {
+          "caption": "",
+          "url": "https://firebasestorage.googleapis.com/v0/b/gr-prod.appspot.com/o/gr%2FregionalData%2Fin%2F31%2F3100%2Fngo%2Flit-the-light-logo.jpg?alt=media&token=0ad215d9-40bf-4461-808a-37cf91a87aef"
+        },
+        "slug": "lit-the-light",
+        "id": "mIiaqDtkgZsgFp2xEgQT",
+        "name": "Lit the Light"
+      }
+    },
+    {
+      "updatedAt": { "_seconds": 1588856501, "_nanoseconds": 553000000 },
+      "rating": "4",
+      "id": "-L7bytGhrL-vNRdzxObm-ATCZm1A1L3ReHJu6PvuMKKpJMJX2",
+      "createdBy": "ATCZm1A1L3ReHJu6PvuMKKpJMJX2",
+      "attended": true,
+      "feedback": "Nothing else with grassroot. Everything was fine but please make arrangements for students to do their exams along ",
+      "volunteer": {
+        "photo": {
+          "caption": "",
+          "url": "https://lh3.googleusercontent.com/-NSG5DGEFh1w/AAAAAAAAAAI/AAAAAAAAHVk/0sAxTyZRTWM/photo.jpg"
+        },
+        "id": "ATCZm1A1L3ReHJu6PvuMKKpJMJX2",
+        "name": "STA LovER of nATurE"
+      },
+      "name": "STA LovER of nATurE",
+      "ngo": {
+        "slug": "lit-the-light",
+        "id": "mIiaqDtkgZsgFp2xEgQT",
+        "name": "Lit the Light",
+        "logo": {
+          "url": "https://firebasestorage.googleapis.com/v0/b/gr-prod.appspot.com/o/gr%2FregionalData%2Fin%2F31%2F3100%2Fngo%2Flit-the-light-logo.jpg?alt=media&token=0ad215d9-40bf-4461-808a-37cf91a87aef",
+          "caption": ""
+        }
+      },
+      "createdAt": { "_seconds": 1521997860, "_nanoseconds": 586000000 },
+      "event": {
+        "id": "-L7bytGhrL-vNRdzxObm",
+        "name": "Scribe Requirements",
+        "photo": {
+          "caption": "",
+          "url": "2018-02-27-10:00-Readers-Requirements--L6HCfOWKiNcnWRPvVq0.jpg?alt=media"
+        }
+      },
+      "updatedBy": "ATCZm1A1L3ReHJu6PvuMKKpJMJX2",
+      "isActive": true
+    },
+    {
+      "ngo": {
+        "slug": "lit-the-light",
+        "logo": {
+          "url": "https://firebasestorage.googleapis.com/v0/b/gr-prod.appspot.com/o/gr%2FregionalData%2Fin%2F31%2F3100%2Fngo%2Flit-the-light-logo.jpg?alt=media&token=0ad215d9-40bf-4461-808a-37cf91a87aef",
+          "caption": ""
+        },
+        "name": "Lit the Light",
+        "id": "mIiaqDtkgZsgFp2xEgQT"
+      },
+      "createdAt": { "_seconds": 1521997883, "_nanoseconds": 140000000 },
+      "createdBy": "ATCZm1A1L3ReHJu6PvuMKKpJMJX2",
+      "updatedAt": { "_seconds": 1588856502, "_nanoseconds": 835000000 },
+      "name": "STA LovER of nATurE",
+      "event": {
+        "id": "-L7bz3mU-GzNQkJqwqp2",
+        "name": "Scribe Requirements",
+        "photo": {
+          "caption": "",
+          "url": "2018-02-27-10:00-Readers-Requirements--L6HCfOWKiNcnWRPvVq0.jpg?alt=media"
+        }
+      },
+      "updatedBy": "ATCZm1A1L3ReHJu6PvuMKKpJMJX2",
+      "volunteer": {
+        "name": "STA LovER of nATurE",
+        "photo": {
+          "url": "https://lh3.googleusercontent.com/-NSG5DGEFh1w/AAAAAAAAAAI/AAAAAAAAHVk/0sAxTyZRTWM/photo.jpg",
+          "caption": ""
+        },
+        "id": "ATCZm1A1L3ReHJu6PvuMKKpJMJX2"
+      },
+      "id": "-L7bz3mU-GzNQkJqwqp2-ATCZm1A1L3ReHJu6PvuMKKpJMJX2",
+      "isActive": true,
+      "feedback": "Good.",
+      "rating": "4",
+      "attended": true
+    },
+    {
+      "updatedAt": { "_seconds": 1588856493, "_nanoseconds": 839000000 },
+      "updatedBy": "qzBAovGnFrdzqv7SIAdQOlLqHmo1",
+      "attended": true,
+      "createdAt": { "_seconds": 1522079038, "_nanoseconds": 508000000 },
+      "feedback": "It was very good.",
+      "ngo": {
+        "id": "mIiaqDtkgZsgFp2xEgQT",
+        "logo": {
+          "caption": "",
+          "url": "https://firebasestorage.googleapis.com/v0/b/gr-prod.appspot.com/o/gr%2FregionalData%2Fin%2F31%2F3100%2Fngo%2Flit-the-light-logo.jpg?alt=media&token=0ad215d9-40bf-4461-808a-37cf91a87aef"
+        },
+        "name": "Lit the Light",
+        "slug": "lit-the-light"
+      },
+      "name": "vignesh R",
+      "id": "-L74G3sQ2NJiYKxp--_R-qzBAovGnFrdzqv7SIAdQOlLqHmo1",
+      "rating": "5",
+      "event": {
+        "name": "Scribe Requirements",
+        "id": "-L74G3sQ2NJiYKxp--_R",
+        "photo": {
+          "caption": "",
+          "url": "2018-02-27-10:00-Readers-Requirements--L6HCfOWKiNcnWRPvVq0.jpg?alt=media"
+        }
+      },
+      "volunteer": {
+        "id": "qzBAovGnFrdzqv7SIAdQOlLqHmo1",
+        "name": "vignesh R",
+        "photo": {
+          "url": "https://lh4.googleusercontent.com/-HQak9Az20PU/AAAAAAAAAAI/AAAAAAAACHk/2_Rvhb6GQwA/photo.jpg",
+          "caption": ""
+        }
+      },
+      "isActive": true,
+      "createdBy": "qzBAovGnFrdzqv7SIAdQOlLqHmo1"
+    },
+    {
+      "attended": true,
+      "event": {
+        "photo": {
+          "url": "2018-02-27-10:00-Readers-Requirements--L6HCfOWKiNcnWRPvVq0.jpg?alt=media",
+          "caption": ""
+        },
+        "id": "-L74GJRetOBasVazZaWb",
+        "name": "Scribe Requirements"
+      },
+      "updatedAt": { "_seconds": 1588856496, "_nanoseconds": 497000000 },
+      "volunteer": {
+        "id": "Bm41PSv3qhZjiJNCskGiMjHBGds2",
+        "photo": {
+          "url": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg",
+          "caption": ""
+        },
+        "name": "Suganya Gandhi"
+      },
+      "id": "-L74GJRetOBasVazZaWb-Bm41PSv3qhZjiJNCskGiMjHBGds2",
+      "createdAt": { "_seconds": 1522143950, "_nanoseconds": 634000000 },
+      "rating": "5",
+      "ngo": {
+        "logo": {
+          "caption": "",
+          "url": "https://firebasestorage.googleapis.com/v0/b/gr-prod.appspot.com/o/gr%2FregionalData%2Fin%2F31%2F3100%2Fngo%2Flit-the-light-logo.jpg?alt=media&token=0ad215d9-40bf-4461-808a-37cf91a87aef"
+        },
+        "name": "Lit the Light",
+        "id": "mIiaqDtkgZsgFp2xEgQT",
+        "slug": "lit-the-light"
+      },
+      "updatedBy": "Bm41PSv3qhZjiJNCskGiMjHBGds2",
+      "isActive": true,
+      "feedback": "Written for B .A history I st year student  EVE paper . Thanks for the oppurtunity ",
+      "createdBy": "Bm41PSv3qhZjiJNCskGiMjHBGds2",
+      "name": "Suganya Gandhi"
+    },
+    {
+      "updatedBy": "0d2nMKP48bg1yROeWlDxW0DSNXS2",
+      "volunteer": {
+        "photo": {
+          "url": "https://lh3.googleusercontent.com/-jTqV112I2ps/AAAAAAAAAAI/AAAAAAAACZ8/DjpopCJ1QsE/photo.jpg",
+          "caption": ""
+        },
+        "id": "0d2nMKP48bg1yROeWlDxW0DSNXS2",
+        "name": "SasI karuna"
+      },
+      "ngo": {
+        "name": "Lit the Light",
+        "slug": "lit-the-light",
+        "logo": {
+          "caption": "",
+          "url": "https://firebasestorage.googleapis.com/v0/b/gr-prod.appspot.com/o/gr%2FregionalData%2Fin%2F31%2F3100%2Fngo%2Flit-the-light-logo.jpg?alt=media&token=0ad215d9-40bf-4461-808a-37cf91a87aef"
+        },
+        "id": "mIiaqDtkgZsgFp2xEgQT"
+      },
+      "event": {
+        "photo": {
+          "caption": "",
+          "url": "2018-03-21-09:30-Scribe-Requirement---UG,-PG-Exams--L7wnUTaDZLKWqk7mNG_.jpg?alt=media"
+        },
+        "id": "-L8wKEAyGH4xC_0T3hbq",
+        "name": "Volunteer Requirement"
+      },
+      "isActive": true,
+      "feedback": "good!!!!",
+      "attended": true,
+      "id": "-L8wKEAyGH4xC_0T3hbq-0d2nMKP48bg1yROeWlDxW0DSNXS2",
+      "rating": "4",
+      "createdAt": { "_seconds": 1522675026, "_nanoseconds": 557000000 },
+      "updatedAt": { "_seconds": 1588856515, "_nanoseconds": 506000000 },
+      "createdBy": "0d2nMKP48bg1yROeWlDxW0DSNXS2",
+      "name": "SasI karuna"
+    },
+    {
+      "volunteer": {
+        "id": "f7eruXrCJhUgSUzk9loKUjcvt6i2",
+        "name": "surendhar kumar",
+        "photo": {
+          "caption": "",
+          "url": "https://lh4.googleusercontent.com/-za2Z3nh-IWE/AAAAAAAAAAI/AAAAAAAAAoM/FRhrMNIIP7A/photo.jpg"
+        }
+      },
+      "attended": true,
+      "ngo": {
+        "name": "Lit the Light",
+        "slug": "lit-the-light",
+        "logo": {
+          "caption": "",
+          "url": "https://firebasestorage.googleapis.com/v0/b/gr-prod.appspot.com/o/gr%2FregionalData%2Fin%2F31%2F3100%2Fngo%2Flit-the-light-logo.jpg?alt=media&token=0ad215d9-40bf-4461-808a-37cf91a87aef"
+        },
+        "id": "mIiaqDtkgZsgFp2xEgQT"
+      },
+      "updatedBy": "f7eruXrCJhUgSUzk9loKUjcvt6i2",
+      "updatedAt": { "_seconds": 1588856528, "_nanoseconds": 661000000 },
+      "id": "-L9AVLnwf5zmOnd_uogg-f7eruXrCJhUgSUzk9loKUjcvt6i2",
+      "isActive": true,
+      "feedback": "Ya good nice experience.",
+      "event": {
+        "photo": {
+          "url": "-L9AVLnwf5zmOnd_uogg.jpeg?alt=media&token=3e335b41-343f-43cc-9e6a-6114f7ed4aae",
+          "caption": ""
+        },
+        "name": "Car Rally for Visually Challenged",
+        "id": "-L9AVLnwf5zmOnd_uogg"
+      },
+      "createdAt": { "_seconds": 1523198888, "_nanoseconds": 231000000 },
+      "rating": "4",
+      "name": "surendhar kumar",
+      "createdBy": "f7eruXrCJhUgSUzk9loKUjcvt6i2"
+    },
+    {
+      "updatedBy": "6JAYZHgAwnVVv6fXlc9GpC0lfH33",
+      "createdBy": "6JAYZHgAwnVVv6fXlc9GpC0lfH33",
+      "id": "-L9EH_Me_8kksWMOAs8a-6JAYZHgAwnVVv6fXlc9GpC0lfH33",
+      "event": {
+        "name": "Scribe Requirement",
+        "id": "-L9EH_Me_8kksWMOAs8a",
+        "photo": {
+          "caption": "",
+          "url": "2018-03-21-09:30-Scribe-Requirement---UG,-PG-Exams--L7wnUTaDZLKWqk7mNG_.jpg?alt=media"
+        }
+      },
+      "volunteer": {
+        "photo": {
+          "url": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg",
+          "caption": ""
+        },
+        "name": "sai Kheerthana",
+        "id": "6JAYZHgAwnVVv6fXlc9GpC0lfH33"
+      },
+      "name": "sai Kheerthana",
+      "rating": "5",
+      "isActive": true,
+      "updatedAt": { "_seconds": 1588856531, "_nanoseconds": 165000000 },
+      "feedback": "Whenever I go as a scribe , i feel extremely happy.",
+      "ngo": {
+        "id": "mIiaqDtkgZsgFp2xEgQT",
+        "logo": {
+          "caption": "",
+          "url": "https://firebasestorage.googleapis.com/v0/b/gr-prod.appspot.com/o/gr%2FregionalData%2Fin%2F31%2F3100%2Fngo%2Flit-the-light-logo.jpg?alt=media&token=0ad215d9-40bf-4461-808a-37cf91a87aef"
+        },
+        "slug": "lit-the-light",
+        "name": "Lit the Light"
+      },
+      "createdAt": { "_seconds": 1524492709, "_nanoseconds": 81000000 },
+      "attended": true
+    },
+    {
+      "attended": true,
+      "event": {
+        "name": "Scribes Required - Tamil ",
+        "photo": {
+          "caption": "",
+          "url": "2018-03-21-09:30-Scribe-Requirement---UG,-PG-Exams--L7wnUTaDZLKWqk7mNG_.jpg?alt=media"
+        },
+        "id": "-LAWquO8qwvdxZKL29UX"
+      },
+      "createdBy": "88yAIgs3CHTNubDgEKKEzdB0hR63",
+      "id": "-LAWquO8qwvdxZKL29UX-88yAIgs3CHTNubDgEKKEzdB0hR63",
+      "updatedBy": "88yAIgs3CHTNubDgEKKEzdB0hR63",
+      "volunteer": {
+        "id": "88yAIgs3CHTNubDgEKKEzdB0hR63",
+        "name": "Ganesh appadurai",
+        "photo": {
+          "url": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg",
+          "caption": ""
+        }
+      },
+      "createdAt": { "_seconds": 1524502876, "_nanoseconds": 461000000 },
+      "feedback": "Good initiative..keep doing..",
+      "name": "Ganesh appadurai",
+      "rating": "5",
+      "updatedAt": { "_seconds": 1588856549, "_nanoseconds": 165000000 },
+      "isActive": true,
+      "ngo": {
+        "logo": {
+          "url": "https://firebasestorage.googleapis.com/v0/b/gr-prod.appspot.com/o/gr%2FregionalData%2Fin%2F31%2F3100%2Fngo%2Flit-the-light-logo.jpg?alt=media&token=0ad215d9-40bf-4461-808a-37cf91a87aef",
+          "caption": ""
+        },
+        "slug": "lit-the-light",
+        "id": "mIiaqDtkgZsgFp2xEgQT",
+        "name": "Lit the Light"
+      }
+    },
+    {
+      "updatedBy": "QUZJaThAJxQQxkhf8NdeOYqVobD3",
+      "createdBy": "QUZJaThAJxQQxkhf8NdeOYqVobD3",
+      "event": {
+        "photo": {
+          "caption": "",
+          "url": "2018-03-21-09:30-Scribe-Requirement---UG,-PG-Exams--L7wnUTaDZLKWqk7mNG_.jpg?alt=media"
+        },
+        "id": "-LAsdJNitYYPt2LHC0_J",
+        "name": "Scribes Required - Tamil and English"
+      },
+      "feedback": "It's awesome and good experience ",
+      "id": "-LAsdJNitYYPt2LHC0_J-QUZJaThAJxQQxkhf8NdeOYqVobD3",
+      "volunteer": {
+        "name": "sweetie arthi",
+        "photo": {
+          "caption": "",
+          "url": "https://lh3.googleusercontent.com/-YfPXCF_H0ic/AAAAAAAAAAI/AAAAAAAAAJI/U9SD6D5OOEA/photo.jpg"
+        },
+        "id": "QUZJaThAJxQQxkhf8NdeOYqVobD3"
+      },
+      "name": "sweetie arthi",
+      "updatedAt": { "_seconds": 1588856565, "_nanoseconds": 930000000 },
+      "rating": "5",
+      "createdAt": { "_seconds": 1524881166, "_nanoseconds": 762000000 },
+      "attended": true,
+      "ngo": {
+        "name": "Lit the Light",
+        "id": "mIiaqDtkgZsgFp2xEgQT",
+        "slug": "lit-the-light",
+        "logo": {
+          "url": "https://firebasestorage.googleapis.com/v0/b/gr-prod.appspot.com/o/gr%2FregionalData%2Fin%2F31%2F3100%2Fngo%2Flit-the-light-logo.jpg?alt=media&token=0ad215d9-40bf-4461-808a-37cf91a87aef",
+          "caption": ""
+        }
+      },
+      "isActive": true
+    },
+    {
+      "isActive": true,
+      "createdAt": { "_seconds": 1527239656, "_nanoseconds": 348000000 },
+      "feedback": "Very nice meeting..",
+      "rating": "5",
+      "attended": true,
+      "id": "-LCXN18jK-QvdbAOGo1f-GgyyrhvdYVUxmAHy9fSS8X4d0Jl2",
+      "updatedBy": "GgyyrhvdYVUxmAHy9fSS8X4d0Jl2",
+      "updatedAt": { "_seconds": 1588856626, "_nanoseconds": 860000000 },
+      "event": {
+        "id": "-LCXN18jK-QvdbAOGo1f",
+        "name": "Monthly Volunteers Meet",
+        "photo": { "caption": "", "url": "-LCXN18jK-QvdbAOGo1f.jpg?alt=media" }
+      },
+      "ngo": {
+        "id": "mIiaqDtkgZsgFp2xEgQT",
+        "slug": "lit-the-light",
+        "logo": {
+          "url": "https://firebasestorage.googleapis.com/v0/b/gr-prod.appspot.com/o/gr%2FregionalData%2Fin%2F31%2F3100%2Fngo%2Flit-the-light-logo.jpg?alt=media&token=0ad215d9-40bf-4461-808a-37cf91a87aef",
+          "caption": ""
+        },
+        "name": "Lit the Light"
+      },
+      "createdBy": "GgyyrhvdYVUxmAHy9fSS8X4d0Jl2",
+      "name": "barath raj",
+      "volunteer": {
+        "name": "barath raj",
+        "id": "GgyyrhvdYVUxmAHy9fSS8X4d0Jl2",
+        "photo": {
+          "caption": "",
+          "url": "https://lh6.googleusercontent.com/-iGmQ5MMoEZo/AAAAAAAAAAI/AAAAAAAAAPE/dto5DECe6sQ/photo.jpg"
+        }
+      }
+    },
+    {
+      "updatedBy": "SM6hSfVzXcNJ6yHQlNbnBNZlwTT2",
+      "createdAt": { "_seconds": 1527863564, "_nanoseconds": 771000000 },
+      "id": "-LBCPIJuiLim8MM6hdNi-SM6hSfVzXcNJ6yHQlNbnBNZlwTT2",
+      "attended": true,
+      "event": {
+        "photo": {
+          "caption": "",
+          "url": "2018-03-21-09:30-Scribe-Requirement---UG,-PG-Exams--L7wnUTaDZLKWqk7mNG_.jpg?alt=media"
+        },
+        "id": "-LBCPIJuiLim8MM6hdNi",
+        "name": "Scribes Required - Tamil and English"
+      },
+      "updatedAt": { "_seconds": 1588856580, "_nanoseconds": 301000000 },
+      "name": "Kamaleeshwari ravichandran",
+      "feedback": "It was best experience  ",
+      "ngo": {
+        "id": "mIiaqDtkgZsgFp2xEgQT",
+        "name": "Lit the Light",
+        "slug": "lit-the-light",
+        "logo": {
+          "caption": "",
+          "url": "https://firebasestorage.googleapis.com/v0/b/gr-prod.appspot.com/o/gr%2FregionalData%2Fin%2F31%2F3100%2Fngo%2Flit-the-light-logo.jpg?alt=media&token=0ad215d9-40bf-4461-808a-37cf91a87aef"
+        }
+      },
+      "isActive": true,
+      "volunteer": {
+        "id": "SM6hSfVzXcNJ6yHQlNbnBNZlwTT2",
+        "photo": {
+          "url": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg",
+          "caption": ""
+        },
+        "name": "Kamaleeshwari ravichandran"
+      },
+      "createdBy": "SM6hSfVzXcNJ6yHQlNbnBNZlwTT2",
+      "rating": "5"
+    },
+    {
+      "updatedAt": { "_seconds": 1588856633, "_nanoseconds": 43000000 },
+      "feedback": "Eager to write more ",
+      "rating": "5",
+      "id": "-LDGgYp8sugeAanTkRfn-uW7Fkf2Sw6Scd6t1wBSXmyqcQW83",
+      "volunteer": {
+        "id": "uW7Fkf2Sw6Scd6t1wBSXmyqcQW83",
+        "photo": {
+          "caption": "",
+          "url": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg"
+        },
+        "name": "arun prasad"
+      },
+      "isActive": true,
+      "name": "arun prasad",
+      "attended": true,
+      "createdBy": "uW7Fkf2Sw6Scd6t1wBSXmyqcQW83",
+      "updatedBy": "uW7Fkf2Sw6Scd6t1wBSXmyqcQW83",
+      "event": {
+        "id": "-LDGgYp8sugeAanTkRfn",
+        "name": "Scribe  in Need - English",
+        "photo": {
+          "url": "2018-03-21-09:30-Scribe-Requirement---UG,-PG-Exams--L7wnUTaDZLKWqk7mNG_.jpg?alt=media",
+          "caption": ""
+        }
+      },
+      "ngo": {
+        "name": "Lit the Light",
+        "slug": "lit-the-light",
+        "id": "mIiaqDtkgZsgFp2xEgQT",
+        "logo": {
+          "caption": "",
+          "url": "https://firebasestorage.googleapis.com/v0/b/gr-prod.appspot.com/o/gr%2FregionalData%2Fin%2F31%2F3100%2Fngo%2Flit-the-light-logo.jpg?alt=media&token=0ad215d9-40bf-4461-808a-37cf91a87aef"
+        }
+      },
+      "createdAt": { "_seconds": 1528290838, "_nanoseconds": 235000000 }
+    },
+    {
+      "volunteer": {
+        "id": "tryStV5caEZDTq2VWZchQvV75Vv1",
+        "name": "Renugadevi Periyasamy",
+        "photo": {
+          "url": "https://lh3.googleusercontent.com/-_mEL3lYZxx8/AAAAAAAAAAI/AAAAAAAAAx8/qyoHoXSmr1w/photo.jpg",
+          "caption": ""
+        }
+      },
+      "isActive": true,
+      "updatedAt": { "_seconds": 1588856637, "_nanoseconds": 423000000 },
+      "attended": true,
+      "feedback": "I was not contacted by anyone to attend the event\n\nI couldnt attend the event",
+      "createdBy": "tryStV5caEZDTq2VWZchQvV75Vv1",
+      "event": {
+        "name": "Scribe  in Need - Tamil",
+        "id": "-LDKjyKJYg1u5JUClfjP",
+        "photo": {
+          "url": "2018-03-21-09:30-Scribe-Requirement---UG,-PG-Exams--L7wnUTaDZLKWqk7mNG_.jpg?alt=media",
+          "caption": ""
+        }
+      },
+      "ngo": {
+        "id": "mIiaqDtkgZsgFp2xEgQT",
+        "logo": {
+          "url": "https://firebasestorage.googleapis.com/v0/b/gr-prod.appspot.com/o/gr%2FregionalData%2Fin%2F31%2F3100%2Fngo%2Flit-the-light-logo.jpg?alt=media&token=0ad215d9-40bf-4461-808a-37cf91a87aef",
+          "caption": ""
+        },
+        "name": "Lit the Light",
+        "slug": "lit-the-light"
+      },
+      "updatedBy": "tryStV5caEZDTq2VWZchQvV75Vv1",
+      "name": "Renugadevi Periyasamy",
+      "rating": 0,
+      "createdAt": { "_seconds": 1528436033, "_nanoseconds": 225000000 },
+      "id": "-LDKjyKJYg1u5JUClfjP-tryStV5caEZDTq2VWZchQvV75Vv1"
+    }
+  ],
+  "aggregate": {
+    "admin": 0,
+    "upcomingEvent": 0,
+    "mediaRecognition": 20,
+    "review": 148,
+    "follower": 35,
+    "photo": 0,
+    "project": 0,
+    "testimonial": 0,
+    "avgRating": 4.3175675675675675,
+    "volunteer": {
+      "hoursSelf": 0,
+      "registered": 0,
+      "unattendedSelf": 54,
+      "hoursVerified": 0,
+      "attendedVerified": 0,
+      "required": 0,
+      "attendedSelf": 148,
+      "joined": 768
+    },
+    "donation": { "required": 0, "collected": 0, "count": 0 },
+    "event": 568,
+    "subscription": {
+      "currentCount": 8,
+      "totalCollected": 5300,
+      "count": 10,
+      "amount": 0,
+      "currentCollected": 4800,
+      "totalCount": 9
+    },
+    "award": 0
+  },
+  "priority": 100,
+  "whyVolunteerHere": [
+    { "icon": "checkmark-circle-outline", "text": "This is a reliable NGO" },
+    {
+      "text": "You can get certificate recognitions and internship opportunities",
+      "icon": "checkmark-circle-outline"
+    },
+    {
+      "text": "Dedicated volunteers who can assist in career placements",
+      "icon": "checkmark-circle-outline"
+    }
+  ],
+  "slug": "lit-the-light",
+  "district": { "name": "Chennai", "id": 3100 }
+}

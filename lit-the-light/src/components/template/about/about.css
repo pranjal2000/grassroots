@@ -1,0 +1,9 @@
+:host {
+    display: block;
+  }
+.cvr1{
+    background-image: url("../../../assets/img/into.jpg");
+}  
+.cvr2{
+    background-color: #01b0d1;opacity:0.9;
+}
