@@ -1,5 +1,5 @@
 import { Component, h, Prop } from '@stencil/core';
-
+//import * as ngo  from '../../../assets/data/ngo.json';
 @Component({
     tag: 'charity-footer',
     styleUrl: 'footer.css',

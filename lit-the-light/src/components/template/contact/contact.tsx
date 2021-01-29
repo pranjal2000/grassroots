@@ -65,6 +65,9 @@ export class CharityContact {
 						</div>
 					</fieldset>
 				</form>
+				<h4 class="lead wow fadeIn animated">
+					Phone- {this.ngo.reachOut.phone1},   Email- <a href={this.ngo.reachOut.email} >{this.ngo.reachOut.email} </a> 
+					</h4>
 				<div id="success">		
 					<p class="contactalert">
 						Your message was sent succssfully! I will be in touch as soon as I can.
