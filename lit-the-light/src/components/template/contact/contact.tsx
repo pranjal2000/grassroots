@@ -27,7 +27,7 @@ export class CharityContact {
         return (
 
         <ion-content>
-            <charity-header></charity-header>
+            <charity-header ngo={this.ngo}></charity-header>
             <section id="contactarea" class="parallax section ctc1">
 <div class="wrapsection">
 	<div class="parallax-overlay ctc2"></div>
@@ -80,7 +80,7 @@ export class CharityContact {
 	</div>
 </div>
 </section>
-<charity-footer></charity-footer>
+<charity-footer ngo={this.ngo}></charity-footer>
         </ion-content>
 
     );
