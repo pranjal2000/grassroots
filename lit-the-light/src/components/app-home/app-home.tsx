@@ -11,6 +11,7 @@ export class AppHome {
   
   render() {
     var img = 'url(' + this.ngo.photos[0] + ')';
+    var img2 = 'url(' + this.ngo.photos[1] + ')';
     return [
       <ion-content>
       <section id="hero" class="section">
@@ -29,14 +30,75 @@ export class AppHome {
                     { this.ngo.vision }
                   </p>
                   <p>
-                      <a href="/projects" class="btn btn-default btn-lg wow fadeInLeft" role="button"> View Projects </a> &nbsp; <a href="/donate" class="btn btn-default btn-lg wow fadeInRight" role="button">Donate</a>
+                      <a href="/projects" class="btn btn-default btn-lg wow fadeInLeft" role="button"> Our Projects </a> &nbsp; <a href="/donate" class="btn btn-default btn-lg wow fadeInRight" role="button">Donate</a>
                   </p>
               </div>
           </div>
-          <div class="col-md-7">
-          </div>
+          
       </div>
+
   </div>
+  <br/><br/><br/>
+  <div class="container" style ={{'background-image': img2}} >
+                        <div class="row">
+                            <div class="col-md-4 col-md-offset-1">
+                                <div class="row">
+                                    <div class="col-md-12 bg2 text-center service-box wow " data-wow-duration="1.5s" data-wow-delay="0.2s">
+                                        <h2> Why Volunteer here? </h2>
+                                    </div>
+                                </div>
+                                { this.ngo.whyVolunteerHere.slice(0, 3).map(w => (
+                                    <div class="caption text-center bg2  service-box wow " data-wow-duration="1.5s" data-wow-delay="0.2s">
+                                        <h4>
+                                            { w.text }
+                                        </h4>
+                                    </div>
+                                )) }
+                            </div>
+
+                            <div class="col-md-4 col-md-offset-2">
+ 
+                                <div class="row">
+                                    <div class="col-md-12 text-center bg2 service-box wow " data-wow-duration="1.5s" data-wow-delay="0.2s">
+                                        <h2> Why your help matters? </h2>
+                                    </div>
+                                </div>
+                                { this.ngo.whyHelpMatters.slice(0, 3).map(w => (
+                                    <div class="caption text-center bg2 service-box wow " data-wow-duration="1.5s" data-wow-delay="0.2s">
+                                        <h4>
+                                            { w.text }
+                                        </h4>
+                                    </div>
+                                )) }
+                                                           
+                            
+                            </div>
+                        </div>
+
+                    </div>
+                    <br/>
+                    
+                    <div class="container mt-2">
+  <div class=" text-center service-box wow ">
+							<h3 class="section-title">Media</h3>
+							
+						</div>
+
+  { this.ngo.media.length > 0 ?
+  <div class="col-md-12 text-center service-box wow " data-wow-duration="1.5s" data-wow-delay="0.2s">
+  {this.ngo.media.slice(0, 8).map(m => (
+    <div class="col-md-3 col-sm-6">
+      <div class="card card-block">
+    <a href={m.link}><img src= {m.photo.url}  alt="media 1"/></a>
+        <h5 class="card-title mt-3 mb-3">{ m.name.length < 40 ? m.name : m.name.substring(0, 40) + '...' }</h5>
+        <p class="card-text">{ m.description.length < 60 ? m.description : m.description.substring(0, 60) + '...' } </p> 
+        {/* <span class="text-center"> { new Date(m.date._seconds * 1000).toLocaleDateString("en-US") } </span> */}
+      </div>
+    </div> )) }
+  </div>: null }
+  
+</div>
+
   </section>
 
   <charity-footer ngo={this.ngo}></charity-footer>

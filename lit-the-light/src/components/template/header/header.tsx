@@ -34,15 +34,15 @@ export class CharityHeader {
 		<a><ion-router-link color={location.pathname === '/' ? 'primary' : 'medium' } href='/'> Home </ion-router-link></a>
 		</li>
 		<li>
-		<a> <ion-router-link color={location.pathname.startsWith('/about') ? 'primary' : 'medium' } href="/about">About</ion-router-link></a>
+		<a> <ion-router-link color={location.pathname.startsWith('/about') ? 'primary' : 'medium' } href="/about">About Us</ion-router-link></a>
 		</li>
 		<li>
 		{/* <a href="#gallery">Gallery</a> */}
-        <a> <ion-router-link href="/projects" color={location.pathname.startsWith('/projects') ? 'primary' : 'medium'} > Projects </ion-router-link> </a>
+        <a> <ion-router-link href="/projects" color={location.pathname.startsWith('/projects') ? 'primary' : 'medium'} >Our Projects </ion-router-link> </a>
 		</li>
 		<li>
 		{/* <a href="#slider">Donate</a> */}
-        <a> <ion-router-link href="/donate" color={location.pathname.startsWith('/donate') ? 'primary' : 'medium'} > Donate </ion-router-link> </a>
+        <a> <ion-router-link href="/donate" color={location.pathname.startsWith('/donate') ? 'primary' : 'medium'} > Donate / Volunteer </ion-router-link> </a>
 		</li>
 		{/* <li>
 		<a href="#faq">FAQ</a>

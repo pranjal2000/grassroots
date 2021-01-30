@@ -44,12 +44,14 @@ export class CharityAbout {
                         <div class="col-md-4 col-sm-6">
                             <div class="service-box wow zoomIn" data-wow-duration="1.5s" data-wow-delay="0.1s">
                                 <img src={this.ngo.photos.slice(1,2)} alt=""></img>
-                                <h3>OUR<br/>MISSION</h3>
+                                <h3>OUR<br/>MISSION</h3><br/>
                                 <div class="text-center">
                                     <h5>
                                         { this.ngo.mission.map(m => (
                                         <p> { m } </p>
+                                        
                                     )) }
+                                    <br/>
                                     </h5>
 
                                     {/* <p>
@@ -61,6 +63,7 @@ export class CharityAbout {
                                     <p>
                                         Yap. Really looking goody awesome!
                                     </p> */}
+                                    <br/>
                                     <p class="text-center">
                                         <button type="button" class="btn btn-info btn-md"><a href="#">Learn More</a></button>
                                     </p>
@@ -80,7 +83,7 @@ export class CharityAbout {
                                     </span> */}
                                     <div style={{ 'padding-left': '4px' }}>
                                         <h4> { s.name }</h4>
-                                        <p> { s.description }</p>
+                                        <p> { s.description }</p><br/>
                                         { /*
                                         <p><a href="#">Learn More</a></p>
                                            */ }
@@ -90,7 +93,7 @@ export class CharityAbout {
                             
                             )) }
 
-                                </p><br/>
+                                </p>
                                 <button type="button" class="btn btn-info btn-md"><a href="#">Learn More</a></button>
                             </div>
                         </div>
@@ -98,36 +101,57 @@ export class CharityAbout {
                             <div class="service-box wow flipInY" data-wow-duration="1.5s" data-wow-delay="0.2s">
                                 <span class="glyphicon glyphicon-tree-deciduous"></span>
                                 <h3>Have a look!</h3><br/>
-                                {/* <h3>195 Concerts</h3>
-                                <p>
-                                    Nullam posuere, libero id interdum hendrerit, tortor nisl consectetur elit.
-                                </p>
-                                <button type="button" class="btn btn-info btn-md"><a href="#">Learn More</a></button> */}
+                                
                                 <iframe style={{ 'width': '100%', 'min-height': '320px' }} src={`https://www.youtube.com/embed/${this.ngo.video.url.split('?v=')[1]}`} frameborder="0" allowFullScreen allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe>
                             </div>
                         </div>
-                        {/* <div class="col-md-4 col-sm-6">
-                            <div class="service-box wow flipInY" data-wow-duration="1.5s" data-wow-delay="0.3s">
-                                <span class="glyphicon glyphicon-heart"></span>
-                                <h3>268 Sponsors</h3>
-                                <p>
-                                    Nullam posuere, libero id interdum hendrerit, tortor nisl consectetur elit.
-                                </p>
-                                <button type="button" class="btn btn-info btn-md"><a href="#">Learn More</a></button>
-                            </div>
-                        </div>
-                        <div class="col-md-4 col-sm-6">
-                            <div class="service-box wow flipInY" data-wow-duration="1.5s" data-wow-delay="0.4s">
-                                <span class="glyphicon glyphicon-usd"></span>
-                                <h3>$5.647 Donated</h3>
-                                <p>
-                                    Nullam posuere, libero id interdum hendrerit, tortor nisl consectetur elit.
-                                </p>
-                                <button type="button" class="btn btn-info btn-md"><a href="#">Learn More</a></button>
-                            </div>
-                        </div> */}
+                        
                     </div>
                 </div>
+                <div class="container mt-2">
+                    <br/><br/>
+            <h3 class="section-title text-center"><strong>OUR <span class="lighter">Team</span></strong></h3><br/>
+							
+
+
+  { this.ngo.team.length > 0 ?
+  <div class="col-md-12 text-center" data-wow-duration="1.5s" data-wow-delay="0.2s">
+  {this.ngo.team.slice(0, 8).map(m => (
+    <div class="col-md-4 service-block col-sm-6">
+      <div class="card card-block">
+    <a href={m.link}><img src= {m.photo.url}  alt="media 1"/></a>
+        <h2 class="card-title mt-3 mb-3">{ m.name.length < 40 ? m.name : m.name.substring(0, 40) + '...' }</h2>
+        <p class="card-text">{ m.role.length < 60 ? m.role : m.role.substring(0, 60) + '...' } </p> 
+            <p  >
+
+                { m.reachOut.facebook.length !== 0 ?
+                    <a href={m.reachOut.facebook}><i class="lead fab fa-facebook-f"></i></a>
+                : null }
+
+                { m.reachOut.twitter.length !== 0 ?
+                    <a href={m.reachOut.twitter}><i class="lead fab fa-twitter"></i></a>
+                : null }
+
+                { m.reachOut.instagram.length !== 0 ?
+                    <a href={m.reachOut.instagram}><i class="lead fab fa-instagram"></i></a>
+                : null }
+
+                { m.reachOut.linkedin.length !== 0 ?
+                    <a href={m.reachOut.linkedin}><i class="lead fab fa-linkedin"></i></a>
+                : null }
+
+                { m.reachOut.youtube.length !== 0 ?
+                    <a href={m.reachOut.youtube}><i class="lead fab fa-youtube"></i></a>
+                : null }
+
+            </p>
+
+        {/* <span class="text-center"> { new Date(m.date._seconds * 1000).toLocaleDateString("en-US") } </span> */}
+      </div>
+    </div> )) }
+  </div>: null }
+  
+</div>
             </div>
         </section>
         <charity-footer ngo={this.ngo}></charity-footer>
