@@ -43,12 +43,12 @@ export class AppHome {
                         <div class="row">
                             <div class="col-md-4 col-md-offset-1">
                                 <div class="row">
-                                    <div class="col-md-12 bg2 text-center service-box wow " data-wow-duration="1.5s" data-wow-delay="0.2s">
+                                    <div class="col-md-12 text-center service-box">
                                         <h2> Why Volunteer here? </h2>
                                     </div>
                                 </div>
                                 { this.ngo.whyVolunteerHere.slice(0, 3).map(w => (
-                                    <div class="caption text-center bg2  service-box wow " data-wow-duration="1.5s" data-wow-delay="0.2s">
+                                    <div class="caption text-center service-box">
                                         <h4>
                                             { w.text }
                                         </h4>
@@ -59,12 +59,12 @@ export class AppHome {
                             <div class="col-md-4 col-md-offset-2">
  
                                 <div class="row">
-                                    <div class="col-md-12 text-center bg2 service-box wow " data-wow-duration="1.5s" data-wow-delay="0.2s">
+                                    <div class="col-md-12 text-center service-box">
                                         <h2> Why your help matters? </h2>
                                     </div>
                                 </div>
                                 { this.ngo.whyHelpMatters.slice(0, 3).map(w => (
-                                    <div class="caption text-center bg2 service-box wow " data-wow-duration="1.5s" data-wow-delay="0.2s">
+                                    <div class="caption text-center service-box">
                                         <h4>
                                             { w.text }
                                         </h4>
@@ -77,7 +77,7 @@ export class AppHome {
 
                     </div>
                     <br/>
-                    
+
                     <div class="container mt-2">
   <div class=" text-center service-box wow ">
 							<h3 class="section-title">Media</h3>
@@ -85,9 +85,9 @@ export class AppHome {
 						</div>
 
   { this.ngo.media.length > 0 ?
-  <div class="col-md-12 text-center service-box wow " data-wow-duration="1.5s" data-wow-delay="0.2s">
-  {this.ngo.media.slice(0, 8).map(m => (
-    <div class="col-md-3 col-sm-6">
+  <div class="col-md-12 text-center service-box">
+  {this.ngo.media.slice(0, 3).map(m => (
+    <div class="col-md-4 col-sm-4">
       <div class="card card-block">
     <a href={m.link}><img src= {m.photo.url}  alt="media 1"/></a>
         <h5 class="card-title mt-3 mb-3">{ m.name.length < 40 ? m.name : m.name.substring(0, 40) + '...' }</h5>
@@ -96,6 +96,20 @@ export class AppHome {
       </div>
     </div> )) }
   </div>: null }
+  <div class="row">
+  { this.ngo.media.length > 0 ?
+  <div class="col-md-12 text-center service-box">
+  {this.ngo.media.slice(2, 5).map(m => (
+    <div class="col-md-4 col-sm-4">
+      <div class="card card-block">
+    <a href={m.link}><img src= {m.photo.url}  alt="media 1"/></a>
+        <h5 class="card-title mt-3 mb-3">{ m.name.length < 40 ? m.name : m.name.substring(0, 40) + '...' }</h5>
+        <p class="card-text">{ m.description.length < 60 ? m.description : m.description.substring(0, 60) + '...' } </p> 
+        {/* <span class="text-center"> { new Date(m.date._seconds * 1000).toLocaleDateString("en-US") } </span> */}
+      </div>
+    </div> )) }
+  </div>: null }
+  </div>
   
 </div>
 

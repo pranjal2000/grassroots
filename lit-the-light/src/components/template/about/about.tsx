@@ -42,17 +42,17 @@ export class CharityAbout {
                             </div>
                         </div>
                         <div class="col-md-4 col-sm-6">
-                            <div class="service-box wow zoomIn" data-wow-duration="1.5s" data-wow-delay="0.1s">
+                            <div class="service-box wow flipInY" data-wow-duration="1.5s" data-wow-delay="0.1s">
                                 <img src={this.ngo.photos.slice(1,2)} alt=""></img>
                                 <h3>OUR<br/>MISSION</h3><br/>
                                 <div class="text-center">
-                                    <h5>
+                                    <h4>
                                         { this.ngo.mission.map(m => (
                                         <p> { m } </p>
                                         
                                     )) }
-                                    <br/>
-                                    </h5>
+                                
+                                    </h4>
 
                                     {/* <p>
                                         I will place all the necessary content for this event here, including where they can register, join, attend &amp; so on.
@@ -63,8 +63,8 @@ export class CharityAbout {
                                     <p>
                                         Yap. Really looking goody awesome!
                                     </p> */}
-                                    <br/>
-                                    <p class="text-center">
+                        
+                                    <p class="text-center"><br/>
                                         <button type="button" class="btn btn-info btn-md"><a href="#">Learn More</a></button>
                                     </p>
                                 </div>
@@ -98,7 +98,7 @@ export class CharityAbout {
                             </div>
                         </div>
                         <div class="col-md-4 col-sm-6">
-                            <div class="service-box wow flipInY" data-wow-duration="1.5s" data-wow-delay="0.2s">
+                            <div class="service-box wow flipInY">
                                 <span class="glyphicon glyphicon-tree-deciduous"></span>
                                 <h3>Have a look!</h3><br/>
                                 
@@ -115,7 +115,7 @@ export class CharityAbout {
 
 
   { this.ngo.team.length > 0 ?
-  <div class="col-md-12 text-center" data-wow-duration="1.5s" data-wow-delay="0.2s">
+  <div class="col-md-12 text-center">
   {this.ngo.team.slice(0, 8).map(m => (
     <div class="col-md-4 service-block col-sm-6">
       <div class="card card-block">
