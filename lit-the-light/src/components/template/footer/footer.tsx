@@ -11,7 +11,7 @@ export class CharityFooter {
     render() {
         return (
 
-            <section id="credits" class="text-center">
+        <section id="credits" class="text-center">
             <span class="social">
             <a href={this.ngo.reachOut.facebook}><i class="fa fa-facebook"></i></a>
             <a href={this.ngo.reachOut.twitter}><i class="fa fa-twitter"></i></a>

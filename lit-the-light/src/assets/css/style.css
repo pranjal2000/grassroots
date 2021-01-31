@@ -379,7 +379,9 @@ label {
 	width:100%;
 	top:0;
 	position:fixed;
-	background-image:url(http://unsplash.it/1600/600?random=1);
+	opacity: 0.6;
+	background-image:url(../../assets/images/photo-1551478407-59f94cc5af54.jpg);
+	/* background-color: #ad6c80; */
 	background-position:center center;
 	background-repeat:no-repeat;
 	-webkit-background-size: cover;

@@ -26,8 +26,6 @@ export namespace Components {
     interface CharityHeader {
         "ngo": any;
     }
-    interface CharityHome {
-    }
     interface CharityProjects {
         "ngo": any;
     }
@@ -75,12 +73,6 @@ declare global {
         prototype: HTMLCharityHeaderElement;
         new (): HTMLCharityHeaderElement;
     };
-    interface HTMLCharityHomeElement extends Components.CharityHome, HTMLStencilElement {
-    }
-    var HTMLCharityHomeElement: {
-        prototype: HTMLCharityHomeElement;
-        new (): HTMLCharityHomeElement;
-    };
     interface HTMLCharityProjectsElement extends Components.CharityProjects, HTMLStencilElement {
     }
     var HTMLCharityProjectsElement: {
@@ -95,7 +87,6 @@ declare global {
         "charity-contact": HTMLCharityContactElement;
         "charity-footer": HTMLCharityFooterElement;
         "charity-header": HTMLCharityHeaderElement;
-        "charity-home": HTMLCharityHomeElement;
         "charity-projects": HTMLCharityProjectsElement;
     }
 }
@@ -120,8 +111,6 @@ declare namespace LocalJSX {
     interface CharityHeader {
         "ngo"?: any;
     }
-    interface CharityHome {
-    }
     interface CharityProjects {
         "ngo"?: any;
     }
@@ -133,7 +122,6 @@ declare namespace LocalJSX {
         "charity-contact": CharityContact;
         "charity-footer": CharityFooter;
         "charity-header": CharityHeader;
-        "charity-home": CharityHome;
         "charity-projects": CharityProjects;
     }
 }
@@ -148,7 +136,6 @@ declare module "@stencil/core" {
             "charity-contact": LocalJSX.CharityContact & JSXBase.HTMLAttributes<HTMLCharityContactElement>;
             "charity-footer": LocalJSX.CharityFooter & JSXBase.HTMLAttributes<HTMLCharityFooterElement>;
             "charity-header": LocalJSX.CharityHeader & JSXBase.HTMLAttributes<HTMLCharityHeaderElement>;
-            "charity-home": LocalJSX.CharityHome & JSXBase.HTMLAttributes<HTMLCharityHomeElement>;
             "charity-projects": LocalJSX.CharityProjects & JSXBase.HTMLAttributes<HTMLCharityProjectsElement>;
         }
     }
